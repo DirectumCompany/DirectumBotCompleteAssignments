@@ -1,0 +1,32 @@
+{
+  "$type": "Sungero.Metadata.LayerModuleMetadata, Sungero.Metadata",
+  "NameGuid": "4a2b05a4-6372-44b3-805e-0d8816704359",
+  "Name": "ChatBotInfrastructurePI",
+  "AssociatedGuid": "e77dcf96-3448-4bf6-a3d0-82a64033f6e1",
+  "BaseGuid": "70ef175c-beb6-479b-a2a6-032d95fa0c8e",
+  "ClientBaseAssemblyName": "DirRX.Solution.ClientBase",
+  "ClientBaseNamespace": "DirRX.Solution.Module.ChatBotInfrastructurePI.ClientBase",
+  "Code": "ChatBo2",
+  "CompanyCode": "DirRX",
+  "IconResourcesKeys": [],
+  "Importance": "Medium",
+  "IsVisible": false,
+  "LayeredFromGuid": "70ef175c-beb6-479b-a2a6-032d95fa0c8e",
+  "PublicStructures": [],
+  "ResourceInterfaceAssemblyName": "Sungero.Domain.Interfaces",
+  "ResourceInterfaceNamespace": "DirRX.Solution.Module.ChatBotInfrastructurePI",
+  "ResourcesKeys": [],
+  "SpecialFolders": [],
+  "Version": "3.0.1.6",
+  "Widgets": [],
+  "Versions": [
+    {
+      "Type": "LayerModuleMetadata",
+      "Number": 6
+    },
+    {
+      "Type": "ModuleMetadata",
+      "Number": 6
+    }
+  ]
+}

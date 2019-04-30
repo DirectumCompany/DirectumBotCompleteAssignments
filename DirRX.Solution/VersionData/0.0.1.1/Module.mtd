@@ -1,0 +1,57 @@
+{
+  "$type": "Sungero.Metadata.SolutionMetadata, Sungero.Metadata",
+  "NameGuid": "e77dcf96-3448-4bf6-a3d0-82a64033f6e1",
+  "Name": "Solution",
+  "ClientAssemblyName": "DirRX.Solution.Client",
+  "ClientBaseAssemblyName": "DirRX.Solution.ClientBase",
+  "ClientBaseNamespace": "DirRX.Solution.ClientBase",
+  "ClientNamespace": "DirRX.Solution.Client",
+  "Code": "Solutio",
+  "CompanyCode": "DirRX",
+  "Cover": {
+    "NameGuid": "d74d7504-47b5-459d-89fe-65ea5654fa0d",
+    "Actions": [],
+    "Background": null,
+    "Footer": {
+      "NameGuid": "b5941900-8c2b-4e0f-b384-dd3d1f56768b",
+      "BackgroundPosition": "Stretch"
+    },
+    "Groups": [],
+    "Header": {
+      "NameGuid": "76b11ea3-9f03-42b2-9d6d-6e2d2a1af12a",
+      "BackgroundPosition": "Stretch"
+    }
+  },
+  "DesktopViews": [],
+  "ExplorerTreeOrder": [
+    {
+      "ItemId": "7dc35907-1ed5-4ae7-bb1e-1ff8315f1e69"
+    }
+  ],
+  "IconResourcesKeys": [],
+  "Importance": "Medium",
+  "InterfaceAssemblyName": "Sungero.Domain.Interfaces",
+  "InterfaceNamespace": "DirRX.Solution",
+  "OrderedSpecialFolders": [],
+  "PublicStructures": [],
+  "ResourceInterfaceAssemblyName": "Sungero.Domain.Interfaces",
+  "ResourceInterfaceNamespace": "DirRX.Solution",
+  "ResourcesKeys": [],
+  "ServerAssemblyName": "DirRX.Solution.Server",
+  "ServerNamespace": "DirRX.Solution.Server",
+  "SharedAssemblyName": "DirRX.Solution.Shared",
+  "SharedNamespace": "DirRX.Solution.Shared",
+  "SpecialFolders": [],
+  "Version": "0.0.1.1",
+  "Widgets": [],
+  "Versions": [
+    {
+      "Type": "SolutionMetadata",
+      "Number": 6
+    },
+    {
+      "Type": "ModuleMetadata",
+      "Number": 6
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\DEV\ChatBot\Work\DirRX.ChatBotTask\DirRX.ChatBotTask.Client\bin\Debug\DirRX.ChatBotTask.Client.dll
+D:\DEV\ChatBot\Work\DirRX.ChatBotTask\DirRX.ChatBotTask.Client\bin\Debug\DirRX.ChatBotTask.Client.pdb
+D:\DEV\ChatBot\Work\DirRX.ChatBotTask\DirRX.ChatBotTask.Client\obj\Debug\DirRX.ChatBotTask.ClientBuildTmp.csprojResolveAssemblyReference.cache
+D:\DEV\ChatBot\Work\DirRX.ChatBotTask\DirRX.ChatBotTask.Client\obj\Debug\ChatBotProcessAssignment\ChatBotProcessAssignmentCollectionView.baml
+D:\DEV\ChatBot\Work\DirRX.ChatBotTask\DirRX.ChatBotTask.Client\obj\Debug\ChatBotProcessAssignment\ChatBotProcessAssignmentView.baml
+D:\DEV\ChatBot\Work\DirRX.ChatBotTask\DirRX.ChatBotTask.Client\obj\Debug\ChatBotProcessAssignment\ChatBotProcessAssignmentCollectionView.g.cs
+D:\DEV\ChatBot\Work\DirRX.ChatBotTask\DirRX.ChatBotTask.Client\obj\Debug\ChatBotProcessAssignment\ChatBotProcessAssignmentView.g.cs
+D:\DEV\ChatBot\Work\DirRX.ChatBotTask\DirRX.ChatBotTask.Client\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DEV\ChatBot\Work\DirRX.ChatBotTask\DirRX.ChatBotTask.Client\obj\Debug\DirRX.ChatBotTask.Client_MarkupCompile.cache
+D:\DEV\ChatBot\Work\DirRX.ChatBotTask\DirRX.ChatBotTask.Client\obj\Debug\DirRX.ChatBotTask.Client_MarkupCompile.lref
+D:\DEV\ChatBot\Work\DirRX.ChatBotTask\DirRX.ChatBotTask.Client\obj\Debug\ModuleDataTemplates.baml
+D:\DEV\ChatBot\Work\DirRX.ChatBotTask\DirRX.ChatBotTask.Client\obj\Debug\DirRX.ChatBotTask.Client.g.resources
+D:\DEV\ChatBot\Work\DirRX.ChatBotTask\DirRX.ChatBotTask.Client\obj\Debug\DirRX.ChatBotTask.Client.dll
+D:\DEV\ChatBot\Work\DirRX.ChatBotTask\DirRX.ChatBotTask.Client\obj\Debug\DirRX.ChatBotTask.Client.pdb

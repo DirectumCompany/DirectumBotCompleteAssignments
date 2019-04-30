@@ -1,0 +1,2 @@
+D:\DEV\ChatBot\Work\DirRX.ChatBotTask\DirRX.ChatBotTask.Server\bin\Release\DirRX.ChatBotTask.Server.dll
+D:\DEV\ChatBot\Work\DirRX.ChatBotTask\DirRX.ChatBotTask.Server\obj\Release\DirRX.ChatBotTask.Server.dll

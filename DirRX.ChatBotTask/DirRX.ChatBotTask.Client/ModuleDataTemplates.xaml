@@ -1,0 +1,14 @@
+<ResourceDictionary
+  xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+  xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+  xmlns:local="clr-namespace:DirRX.ChatBotTask.Client">
+
+    <DataTemplate DataType="{x:Type local:ChatBotProcessAssignmentCollectionPresenter`1}">
+      <local:ChatBotProcessAssignmentCollectionView />
+    </DataTemplate>
+      <DataTemplate DataType="{x:Type local:ChatBotProcessAssignmentPresenter`1}">
+        <local:ChatBotProcessAssignmentView />
+      </DataTemplate>
+
+
+</ResourceDictionary>

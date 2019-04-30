@@ -1,0 +1,13 @@
+D:\DEV\ChatBot\Work\DirRX.ChatBotTask\DirRX.ChatBotTask.Shared\bin\Release\DirRX.ChatBotTask.Shared.dll
+D:\DEV\ChatBot\Work\DirRX.ChatBotTask\DirRX.ChatBotTask.Shared\bin\Release\ru\DirRX.ChatBotTask.Shared.resources.dll
+D:\DEV\ChatBot\Work\DirRX.ChatBotTask\DirRX.ChatBotTask.Shared\obj\Release\DirRX.ChatBotTask.Shared.ChatBotProcessAssignment.ChatBotProcessAssignment.resources
+D:\DEV\ChatBot\Work\DirRX.ChatBotTask\DirRX.ChatBotTask.Shared\obj\Release\DirRX.ChatBotTask.Shared.ChatBotProcessAssignment.ChatBotProcessAssignmentSystem.resources
+D:\DEV\ChatBot\Work\DirRX.ChatBotTask\DirRX.ChatBotTask.Shared\obj\Release\DirRX.ChatBotTask.Shared.Module.resources
+D:\DEV\ChatBot\Work\DirRX.ChatBotTask\DirRX.ChatBotTask.Shared\obj\Release\DirRX.ChatBotTask.Shared.ModuleSystem.resources
+D:\DEV\ChatBot\Work\DirRX.ChatBotTask\DirRX.ChatBotTask.Shared\obj\Release\DirRX.ChatBotTask.Shared.ChatBotProcessAssignment.ChatBotProcessAssignment.ru.resources
+D:\DEV\ChatBot\Work\DirRX.ChatBotTask\DirRX.ChatBotTask.Shared\obj\Release\DirRX.ChatBotTask.Shared.ChatBotProcessAssignment.ChatBotProcessAssignmentSystem.ru.resources
+D:\DEV\ChatBot\Work\DirRX.ChatBotTask\DirRX.ChatBotTask.Shared\obj\Release\DirRX.ChatBotTask.Shared.Module.ru.resources
+D:\DEV\ChatBot\Work\DirRX.ChatBotTask\DirRX.ChatBotTask.Shared\obj\Release\DirRX.ChatBotTask.Shared.ModuleSystem.ru.resources
+D:\DEV\ChatBot\Work\DirRX.ChatBotTask\DirRX.ChatBotTask.Shared\obj\Release\DirRX.ChatBotTask.Shared.csproj.GenerateResource.Cache
+D:\DEV\ChatBot\Work\DirRX.ChatBotTask\DirRX.ChatBotTask.Shared\obj\Release\ru\DirRX.ChatBotTask.Shared.resources.dll
+D:\DEV\ChatBot\Work\DirRX.ChatBotTask\DirRX.ChatBotTask.Shared\obj\Release\DirRX.ChatBotTask.Shared.dll

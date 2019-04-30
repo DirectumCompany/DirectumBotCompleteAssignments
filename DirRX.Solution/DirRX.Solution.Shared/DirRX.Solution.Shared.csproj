@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <ProjectGuid>{0123f3d1-5abd-2622-1e94-19a2d6a29001}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <OutputType>Library</OutputType>
+    <RootNamespace>DirRX.Solution.Shared</RootNamespace>
+    <AssemblyName>DirRX.Solution.Shared</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <LangVersion>5</LangVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>True</DebugSymbols>
+    <DebugType>Full</DebugType>
+    <Optimize>False</Optimize>
+    <CheckForOverflowUnderflow>True</CheckForOverflowUnderflow>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>False</DebugSymbols>
+    <DebugType>None</DebugType>
+    <Optimize>True</Optimize>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+    <DefineConstants>TRACE</DefineConstants>
+    <LangVersion>5</LangVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="AssemblyInfo.cs" />
+    <Compile Include="DirRX.ChatBotInfrastructurePI\Module.g.cs" />
+    <Compile Include="DirRX.ChatBotInfrastructurePI\ModuleConstants.cs" />
+    <Compile Include="DirRX.ChatBotInfrastructurePI\ModuleSharedFunctions.cs" />
+    <Compile Include="DirRX.ChatBotInfrastructurePI\ModuleStructures.cs" />
+    <Compile Include="DirRX.ChatBotInfrastructurePI\ModuleStructures.g.cs" />
+    <Compile Include="Employee\Employee.g.cs" />
+    <Compile Include="Employee\EmployeeConstants.cs" />
+    <Compile Include="Employee\EmployeeHandlers.cs" />
+    <Compile Include="Employee\EmployeeSharedFunctions.cs" />
+    <Compile Include="Employee\EmployeeStructures.cs" />
+    <Compile Include="Employee\EmployeeStructures.g.cs" />
+    <Compile Include="Module.g.cs" />
+    <Compile Include="ModuleConstants.cs" />
+    <Compile Include="ModuleSharedFunctions.cs" />
+    <Compile Include="ModuleStructures.cs" />
+    <Compile Include="ModuleStructures.g.cs" />
+    <Compile Include="Sungero.Company\Module.g.cs" />
+    <Compile Include="Sungero.Company\ModuleConstants.cs" />
+    <Compile Include="Sungero.Company\ModuleSharedFunctions.cs" />
+    <Compile Include="Sungero.Company\ModuleStructures.cs" />
+    <Compile Include="Sungero.Company\ModuleStructures.g.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="CommonLibrary">
+      <HintPath>..\..\..\.sds\Libraries\Common\CommonLibrary.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Sungero.Metadata">
+      <HintPath>..\..\..\.sds\Libraries\Kernel\Sungero.Metadata.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.Practices.Unity">
+      <HintPath>..\..\..\.sds\Libraries\Microsoft\Microsoft.Practices.Unity.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Sungero.Domain.Shared">
+      <HintPath>..\..\..\.sds\Libraries\Kernel\Sungero.Domain.Shared.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Sungero.CoreEntities.Shared">
+      <HintPath>..\..\..\.sds\Libraries\CoreEntities\Sungero.CoreEntities.Shared.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Sungero.Reporting.Shared">
+      <HintPath>..\..\..\.sds\Libraries\Report\Sungero.Reporting.Shared.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Sungero.Content.Shared">
+      <HintPath>..\..\..\.sds\Libraries\SungeroLibrary\Sungero.Content.Shared.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Sungero.Workflow.Shared">
+      <HintPath>..\..\..\.sds\Libraries\Workflow\Sungero.Workflow.Shared.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Sungero.Workflow.Interfaces">
+      <HintPath>..\..\..\.sds\Libraries\Workflow\Sungero.Workflow.Interfaces.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="DirRX.ChatBotInfrastructurePI\Module.mtd" />
+    <EmbeddedResource Include="DirRX.ChatBotInfrastructurePI\Module.resx" />
+    <EmbeddedResource Include="DirRX.ChatBotInfrastructurePI\Module.ru.resx" />
+    <EmbeddedResource Include="DirRX.ChatBotInfrastructurePI\ModuleSystem.resx" />
+    <EmbeddedResource Include="DirRX.ChatBotInfrastructurePI\ModuleSystem.ru.resx" />
+    <EmbeddedResource Include="Employee\Employee.mtd" />
+    <EmbeddedResource Include="Employee\Employee.resx" />
+    <EmbeddedResource Include="Employee\Employee.ru.resx" />
+    <EmbeddedResource Include="Employee\EmployeeSystem.resx" />
+    <EmbeddedResource Include="Employee\EmployeeSystem.ru.resx" />
+    <EmbeddedResource Include="Module.resx" />
+    <EmbeddedResource Include="Module.ru.resx" />
+    <EmbeddedResource Include="ModuleSystem.resx" />
+    <EmbeddedResource Include="ModuleSystem.ru.resx" />
+    <EmbeddedResource Include="Sungero.Company\Module.mtd" />
+    <EmbeddedResource Include="Sungero.Company\Module.resx" />
+    <EmbeddedResource Include="Sungero.Company\Module.ru.resx" />
+    <EmbeddedResource Include="Sungero.Company\ModuleSystem.resx" />
+    <EmbeddedResource Include="Sungero.Company\ModuleSystem.ru.resx" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Module.mtd" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\.sds\Sungero.Domain.Interfaces\Sungero.Domain.Interfaces.csproj">
+      <Project>{75c348f3-8b41-4177-967f-758d41a03eb6}</Project>
+      <Name>Sungero.Domain.Interfaces</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\Base\DirRX.ChatBotInfrastructurePI\DirRX.ChatBotInfrastructurePI.Shared\DirRX.ChatBotInfrastructurePI.Shared.csproj">
+      <Project>{6004f9c7-bb80-99ea-99dd-1bbbbe8d5cca}</Project>
+      <Name>DirRX.ChatBotInfrastructurePI.Shared</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\Base\Sungero.Company\Sungero.Company.Shared\Sungero.Company.Shared.csproj">
+      <Project>{af9415f0-4a31-b29a-c7df-b3945cce7c99}</Project>
+      <Name>Sungero.Company.Shared</Name>
+      <Private>False</Private>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.Targets" />
+</Project>

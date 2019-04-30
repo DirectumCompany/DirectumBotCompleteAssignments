@@ -1,0 +1,12 @@
+D:\DEV\ChatBot\Work\DirRX.Solution\DirRX.Solution.Client\bin\Release\DirRX.Solution.Client.dll
+D:\DEV\ChatBot\Work\DirRX.Solution\DirRX.Solution.Client\obj\Release\DirRX.Solution.Client.csprojResolveAssemblyReference.cache
+D:\DEV\ChatBot\Work\DirRX.Solution\DirRX.Solution.Client\obj\Release\Employee\EmployeeCollectionView.baml
+D:\DEV\ChatBot\Work\DirRX.Solution\DirRX.Solution.Client\obj\Release\Employee\EmployeeView.baml
+D:\DEV\ChatBot\Work\DirRX.Solution\DirRX.Solution.Client\obj\Release\Employee\EmployeeCollectionView.g.cs
+D:\DEV\ChatBot\Work\DirRX.Solution\DirRX.Solution.Client\obj\Release\Employee\EmployeeView.g.cs
+D:\DEV\ChatBot\Work\DirRX.Solution\DirRX.Solution.Client\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\DEV\ChatBot\Work\DirRX.Solution\DirRX.Solution.Client\obj\Release\DirRX.Solution.Client_MarkupCompile.cache
+D:\DEV\ChatBot\Work\DirRX.Solution\DirRX.Solution.Client\obj\Release\DirRX.Solution.Client_MarkupCompile.lref
+D:\DEV\ChatBot\Work\DirRX.Solution\DirRX.Solution.Client\obj\Release\ModuleDataTemplates.baml
+D:\DEV\ChatBot\Work\DirRX.Solution\DirRX.Solution.Client\obj\Release\DirRX.Solution.Client.g.resources
+D:\DEV\ChatBot\Work\DirRX.Solution\DirRX.Solution.Client\obj\Release\DirRX.Solution.Client.dll

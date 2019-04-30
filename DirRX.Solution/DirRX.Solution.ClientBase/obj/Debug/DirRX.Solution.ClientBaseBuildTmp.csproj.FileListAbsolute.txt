@@ -1,0 +1,5 @@
+D:\DEV\ChatBot\Work\DirRX.Solution\DirRX.Solution.ClientBase\bin\Debug\DirRX.Solution.ClientBase.dll
+D:\DEV\ChatBot\Work\DirRX.Solution\DirRX.Solution.ClientBase\bin\Debug\DirRX.Solution.ClientBase.pdb
+D:\DEV\ChatBot\Work\DirRX.Solution\DirRX.Solution.ClientBase\obj\Debug\DirRX.Solution.ClientBaseBuildTmp.csprojResolveAssemblyReference.cache
+D:\DEV\ChatBot\Work\DirRX.Solution\DirRX.Solution.ClientBase\obj\Debug\DirRX.Solution.ClientBase.dll
+D:\DEV\ChatBot\Work\DirRX.Solution\DirRX.Solution.ClientBase\obj\Debug\DirRX.Solution.ClientBase.pdb

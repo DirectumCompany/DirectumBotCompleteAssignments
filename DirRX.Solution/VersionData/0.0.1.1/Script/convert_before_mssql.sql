@@ -1,0 +1,2 @@
+﻿if not exists(select 1 from Sungero_Docflow_Params where [Key] = 'LastChatBotNotificationOfAssignment')
+	insert into [DirRX_TRChatbotDev].[dbo].[Sungero_Docflow_Params] values ('LastChatBotNotificationOfAssignment', convert(varchar, GETDATE(), 102))

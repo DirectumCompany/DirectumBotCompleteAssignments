@@ -1,0 +1,153 @@
+{
+  "$type": "Sungero.Metadata.ModuleMetadata, Sungero.Metadata",
+  "NameGuid": "b48729d6-1056-4320-b51a-ffc0e085c717",
+  "Name": "ChatBotTask",
+  "ClientAssemblyName": "DirRX.ChatBotTask.Client",
+  "ClientBaseAssemblyName": "DirRX.ChatBotTask.ClientBase",
+  "ClientBaseNamespace": "DirRX.ChatBotTask.ClientBase",
+  "ClientNamespace": "DirRX.ChatBotTask.Client",
+  "Code": "ChatBo6",
+  "CompanyCode": "DirRX",
+  "Cover": {
+    "NameGuid": "e43fb939-c9a9-4708-bea1-9c220b47aa17",
+    "Actions": [],
+    "Background": null,
+    "Footer": {
+      "NameGuid": "bddbae92-c224-4ada-9480-09d52da7df0b",
+      "BackgroundPosition": "Stretch"
+    },
+    "Groups": [],
+    "Header": {
+      "NameGuid": "741b47b6-3997-42d4-ad97-f2abf7a886b6",
+      "BackgroundPosition": "Stretch"
+    }
+  },
+  "Dependencies": [
+    {
+      "Id": "e77dcf96-3448-4bf6-a3d0-82a64033f6e1",
+      "IsSolutionModule": true,
+      "MaxVersion": "",
+      "MinVersion": ""
+    }
+  ],
+  "ExplorerTreeOrder": [
+    {
+      "ItemId": "eef6834c-36a0-490f-8d7b-4962162f9890"
+    }
+  ],
+  "IconResourcesKeys": [],
+  "Importance": "Medium",
+  "InterfaceAssemblyName": "Sungero.Domain.Interfaces",
+  "InterfaceNamespace": "DirRX.ChatBotTask",
+  "Jobs": [
+    {
+      "NameGuid": "b0402ed3-1279-470f-bb4a-4299ea7d2c4e",
+      "Name": "SendChatBotNotification",
+      "GenerateHandler": true,
+      "MonthSchedule": "Monthly",
+      "StartAt": "1753-01-01T08:30:00"
+    }
+  ],
+  "PublicFunctions": [
+    {
+      "Name": "ReceiveJob",
+      "Parameters": [
+        {
+          "Name": "chatJob",
+          "ParameterType": "global::DirRX.ChatBotInfrastructure.IChatJob",
+          "ParameterTypeFullName": "DirRX.ChatBotInfrastructure.IChatJob, Sungero.Domain.Interfaces"
+        }
+      ],
+      "ReturnType": "void",
+      "ReturnTypeFullName": "System.Void"
+    },
+    {
+      "Name": "SendAssignmentMessage",
+      "Parameters": [
+        {
+          "Name": "assignment",
+          "ParameterType": "global::Sungero.Workflow.IAssignment",
+          "ParameterTypeFullName": "Sungero.Workflow.IAssignment, Sungero.Workflow.Interfaces"
+        },
+        {
+          "Name": "chatBotUser",
+          "ParameterType": "global::DirRX.ChatBotInfrastructure.IChatBotUser",
+          "ParameterTypeFullName": "DirRX.ChatBotInfrastructure.IChatBotUser, Sungero.Domain.Interfaces"
+        }
+      ],
+      "ReturnType": "void",
+      "ReturnTypeFullName": "System.Void"
+    },
+    {
+      "Name": "SendNotification",
+      "IsRemote": true,
+      "Placement": "Shared",
+      "ReturnType": "void",
+      "ReturnTypeFullName": "System.Void"
+    },
+    {
+      "Name": "TrySendAssignmentMessage",
+      "Parameters": [
+        {
+          "Name": "assignment",
+          "ParameterType": "global::Sungero.Workflow.IAssignment",
+          "ParameterTypeFullName": "Sungero.Workflow.IAssignment, Sungero.Workflow.Interfaces"
+        }
+      ],
+      "ReturnType": "void",
+      "ReturnTypeFullName": "System.Void"
+    },
+    {
+      "Name": "TrySendNewAssignmentsToChatBot",
+      "Parameters": [
+        {
+          "Name": "previousRun",
+          "ParameterType": "global::System.DateTime",
+          "ParameterTypeFullName": "System.DateTime"
+        },
+        {
+          "Name": "notificationDate",
+          "ParameterType": "global::System.DateTime",
+          "ParameterTypeFullName": "System.DateTime"
+        }
+      ],
+      "ReturnType": "void",
+      "ReturnTypeFullName": "System.Void"
+    },
+    {
+      "Name": "UpdateLastNotificationDate",
+      "Parameters": [
+        {
+          "Name": "notificationDate",
+          "ParameterType": "global::System.DateTime",
+          "ParameterTypeFullName": "System.DateTime"
+        }
+      ],
+      "ReturnType": "void",
+      "ReturnTypeFullName": "System.Void"
+    }
+  ],
+  "PublicStructures": [],
+  "ResourceInterfaceAssemblyName": "Sungero.Domain.Interfaces",
+  "ResourceInterfaceNamespace": "DirRX.ChatBotTask",
+  "ResourcesKeys": [
+    "IncomingInstructionTextSimpleAssignment",
+    "IncomingInstructionTextAcquaintanceAssignment",
+    "AssignmentText",
+    "AcquaintanceAssignmentAcquaintanedText",
+    "SimpleAssignmentCompleteText"
+  ],
+  "ServerAssemblyName": "DirRX.ChatBotTask.Server",
+  "ServerNamespace": "DirRX.ChatBotTask.Server",
+  "SharedAssemblyName": "DirRX.ChatBotTask.Shared",
+  "SharedNamespace": "DirRX.ChatBotTask.Shared",
+  "SpecialFolders": [],
+  "Version": "0.0.1.8",
+  "Widgets": [],
+  "Versions": [
+    {
+      "Type": "ModuleMetadata",
+      "Number": 6
+    }
+  ]
+}

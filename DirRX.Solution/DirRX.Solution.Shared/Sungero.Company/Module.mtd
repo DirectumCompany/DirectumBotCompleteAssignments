@@ -1,0 +1,121 @@
+{
+  "$type": "Sungero.Metadata.LayerModuleMetadata, Sungero.Metadata",
+  "NameGuid": "4bd6270f-81b6-47e3-8037-b4b405b40be6",
+  "Name": "Company",
+  "AssociatedGuid": "e77dcf96-3448-4bf6-a3d0-82a64033f6e1",
+  "BaseGuid": "d534e107-a54d-48ec-85ff-bc44d731a82f",
+  "ClientBaseAssemblyName": "DirRX.Solution.ClientBase",
+  "ClientBaseNamespace": "DirRX.Solution.Module.Company.ClientBase",
+  "Code": "Company",
+  "CompanyCode": "Sungero",
+  "Cover": {
+    "NameGuid": "a52a7382-131e-4cb5-9a18-28898b8b1f49",
+    "Actions": [
+      {
+        "$type": "Sungero.Metadata.CoverEntityListActionMetadata, Sungero.Metadata",
+        "NameGuid": "4d97abc2-ede1-4c32-bae1-1c24bc5fe9a9",
+        "Name": "Certificates",
+        "EntityTypeId": "afa0c3aa-50ff-453e-87a1-39a696f8917b",
+        "GroupId": "741ff203-46fc-4676-b6d7-a474dd9fefa4",
+        "IsAncestorMetadata": true,
+        "Overridden": [
+          "PreviousItemGuid"
+        ],
+        "PreviousItemGuid": "daad05d5-f5e6-4d31-ae8a-b3b0ea04d1c5"
+      },
+      {
+        "$type": "Sungero.Metadata.CoverEntityListActionMetadata, Sungero.Metadata",
+        "NameGuid": "75660810-1587-47fb-9b41-d24695f5288e",
+        "Name": "ShowOrganizations",
+        "EntityTypeId": "593e143c-616c-4d95-9457-fd916c4aa7f8",
+        "GroupId": "741ff203-46fc-4676-b6d7-a474dd9fefa4",
+        "IsAncestorMetadata": true,
+        "Overridden": [
+          "PreviousItemGuid"
+        ],
+        "PreviousItemGuid": "c6373d6e-c64f-4a05-8d69-63c1b8ae70b9"
+      },
+      {
+        "$type": "Sungero.Metadata.CoverEntityListActionMetadata, Sungero.Metadata",
+        "NameGuid": "b83fe3bf-b980-44c7-9b93-832c5296518d",
+        "Name": "Account",
+        "EntityTypeId": "55f542e9-4645-4f8d-999e-73cc71df62fd",
+        "GroupId": "741ff203-46fc-4676-b6d7-a474dd9fefa4",
+        "IsAncestorMetadata": true,
+        "Overridden": [
+          "PreviousItemGuid"
+        ],
+        "PreviousItemGuid": "f8f5985d-0a65-4e7d-8f8c-4b7931dd151e"
+      },
+      {
+        "$type": "Sungero.Metadata.CoverEntityListActionMetadata, Sungero.Metadata",
+        "NameGuid": "c6373d6e-c64f-4a05-8d69-63c1b8ae70b9",
+        "Name": "ChatBotUsers",
+        "EntityTypeId": "0d82d240-2bea-4fe6-98f0-356cb2dc8719",
+        "GroupId": "741ff203-46fc-4676-b6d7-a474dd9fefa4"
+      },
+      {
+        "$type": "Sungero.Metadata.CoverEntityListActionMetadata, Sungero.Metadata",
+        "NameGuid": "d4913667-776f-499f-89ed-50478378aad4",
+        "Name": "ShowPesons",
+        "EntityTypeId": "f5509cdc-ac0c-4507-a4d3-61d7a0a9b6f6",
+        "GroupId": "741ff203-46fc-4676-b6d7-a474dd9fefa4",
+        "IsAncestorMetadata": true,
+        "Overridden": [
+          "PreviousItemGuid"
+        ],
+        "PreviousItemGuid": "75660810-1587-47fb-9b41-d24695f5288e"
+      },
+      {
+        "$type": "Sungero.Metadata.CoverEntityListActionMetadata, Sungero.Metadata",
+        "NameGuid": "daad05d5-f5e6-4d31-ae8a-b3b0ea04d1c5",
+        "Name": "WorkingTimeCalendars",
+        "EntityTypeId": "02720bfa-107b-4d7e-baac-0cd146a4b527",
+        "GroupId": "741ff203-46fc-4676-b6d7-a474dd9fefa4",
+        "IsAncestorMetadata": true,
+        "Overridden": [
+          "PreviousItemGuid"
+        ],
+        "PreviousItemGuid": "d4913667-776f-499f-89ed-50478378aad4"
+      },
+      {
+        "$type": "Sungero.Metadata.CoverEntityListActionMetadata, Sungero.Metadata",
+        "NameGuid": "f8f5985d-0a65-4e7d-8f8c-4b7931dd151e",
+        "Name": "Roles",
+        "EntityTypeId": "5e9b55c2-c1f5-4e4f-aa09-7b6d461d87ed",
+        "GroupId": "741ff203-46fc-4676-b6d7-a474dd9fefa4",
+        "IsAncestorMetadata": true,
+        "Overridden": [
+          "PreviousItemGuid"
+        ],
+        "PreviousItemGuid": "4d97abc2-ede1-4c32-bae1-1c24bc5fe9a9"
+      }
+    ],
+    "Groups": [],
+    "IsAncestorMetadata": true,
+    "Overridden": [
+      "Actions"
+    ]
+  },
+  "ExplorerTreeOrder": [],
+  "IconResourcesKeys": [],
+  "Importance": "Medium",
+  "LayeredFromGuid": "d534e107-a54d-48ec-85ff-bc44d731a82f",
+  "PublicStructures": [],
+  "ResourceInterfaceAssemblyName": "Sungero.Domain.Interfaces",
+  "ResourceInterfaceNamespace": "DirRX.Solution.Module.Company",
+  "ResourcesKeys": [],
+  "SpecialFolders": [],
+  "Version": "3.0.31.1",
+  "Widgets": [],
+  "Versions": [
+    {
+      "Type": "LayerModuleMetadata",
+      "Number": 6
+    },
+    {
+      "Type": "ModuleMetadata",
+      "Number": 6
+    }
+  ]
+}

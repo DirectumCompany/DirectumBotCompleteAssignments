@@ -1,0 +1,16 @@
+D:\DEV\ChatBot\Work\DirRX.ChatBotTask\DirRX.ChatBotTask.Shared\bin\Debug\DirRX.ChatBotTask.Shared.dll
+D:\DEV\ChatBot\Work\DirRX.ChatBotTask\DirRX.ChatBotTask.Shared\bin\Debug\DirRX.ChatBotTask.Shared.pdb
+D:\DEV\ChatBot\Work\DirRX.ChatBotTask\DirRX.ChatBotTask.Shared\bin\Debug\ru\DirRX.ChatBotTask.Shared.resources.dll
+D:\DEV\ChatBot\Work\DirRX.ChatBotTask\DirRX.ChatBotTask.Shared\obj\Debug\DirRX.ChatBotTask.Shared.Module.resources
+D:\DEV\ChatBot\Work\DirRX.ChatBotTask\DirRX.ChatBotTask.Shared\obj\Debug\DirRX.ChatBotTask.Shared.ModuleSystem.resources
+D:\DEV\ChatBot\Work\DirRX.ChatBotTask\DirRX.ChatBotTask.Shared\obj\Debug\DirRX.ChatBotTask.Shared.Module.ru.resources
+D:\DEV\ChatBot\Work\DirRX.ChatBotTask\DirRX.ChatBotTask.Shared\obj\Debug\DirRX.ChatBotTask.Shared.ModuleSystem.ru.resources
+D:\DEV\ChatBot\Work\DirRX.ChatBotTask\DirRX.ChatBotTask.Shared\obj\Debug\DirRX.ChatBotTask.SharedBuildTmp.csproj.GenerateResource.Cache
+D:\DEV\ChatBot\Work\DirRX.ChatBotTask\DirRX.ChatBotTask.Shared\obj\Debug\ru\DirRX.ChatBotTask.Shared.resources.dll
+D:\DEV\ChatBot\Work\DirRX.ChatBotTask\DirRX.ChatBotTask.Shared\obj\Debug\DirRX.ChatBotTask.Shared.dll
+D:\DEV\ChatBot\Work\DirRX.ChatBotTask\DirRX.ChatBotTask.Shared\obj\Debug\DirRX.ChatBotTask.Shared.pdb
+D:\DEV\ChatBot\Work\DirRX.ChatBotTask\DirRX.ChatBotTask.Shared\obj\Debug\DirRX.ChatBotTask.SharedBuildTmp.csprojResolveAssemblyReference.cache
+D:\DEV\ChatBot\Work\DirRX.ChatBotTask\DirRX.ChatBotTask.Shared\obj\Debug\DirRX.ChatBotTask.Shared.ChatBotProcessAssignment.ChatBotProcessAssignment.resources
+D:\DEV\ChatBot\Work\DirRX.ChatBotTask\DirRX.ChatBotTask.Shared\obj\Debug\DirRX.ChatBotTask.Shared.ChatBotProcessAssignment.ChatBotProcessAssignmentSystem.resources
+D:\DEV\ChatBot\Work\DirRX.ChatBotTask\DirRX.ChatBotTask.Shared\obj\Debug\DirRX.ChatBotTask.Shared.ChatBotProcessAssignment.ChatBotProcessAssignment.ru.resources
+D:\DEV\ChatBot\Work\DirRX.ChatBotTask\DirRX.ChatBotTask.Shared\obj\Debug\DirRX.ChatBotTask.Shared.ChatBotProcessAssignment.ChatBotProcessAssignmentSystem.ru.resources
